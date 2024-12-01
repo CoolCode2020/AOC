@@ -1,5 +1,5 @@
 
-file_path = "/Users/davidhorn/Desktop/Workspaces/CodeChallengeAdvent/input.txt"
+file_path = "input.txt"
 list_left = []
 list_right = []
 distance = 0
